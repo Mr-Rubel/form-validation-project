@@ -1,0 +1,21 @@
+.form-div{
+	padding: 10px;
+	font-weight: bold;
+	border-radius: 6px;
+	background-color: gray !important;
+}
+.error{
+	color: red;
+	font-weight: bold;
+}
+.all-field{
+	color: red;
+	font-weight: bold;
+}
+.welcome {
+    color: #0037ff;
+    background: gray;
+    /* padding: 20px; */
+    border-radius: 10px;
+    text-align: center;
+}
